@@ -1,9 +1,9 @@
 ---
 name: Free Coding Template
 about: Free Coding Template
-title: ''
+title: n월 m일 모임
 labels: 모집중, 수요일 내맘대로 코딩
-assignees: ''
+assignees: limlimlim-study
 
 ---
 
@@ -18,6 +18,10 @@ assignees: ''
 - 개발서 독서
 - 튜토리얼 따라하기
 - 책 예제 학습
+
+**비용**
+모임 공간이 따라 상이하나 3시간 기준
+6000-8000원 예상하시면 될 것 같습니다 : )
 
 **참여방법**
 댓글로 참여 의사와 모임시간에 진행할 내용을 기술해주세요.
