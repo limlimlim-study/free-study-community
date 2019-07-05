@@ -30,3 +30,6 @@ assignees: limlimlim-study
 - "참여 희망합니다. 자바스크립트 변수와 기초 문법을 연습할게요"
 - "참석합니다. 저는 HTML의 기본 태그들의 의미를 공부하겠습니다"
 - "참석! css flex 속성을 연습해볼게요"
+
+**문의**
+https://open.kakao.com/o/gqEyybub
