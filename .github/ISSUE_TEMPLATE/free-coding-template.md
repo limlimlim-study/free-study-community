@@ -2,7 +2,7 @@
 name: Free Coding Template
 about: Free Coding Template
 title: n월 m일 코딩 모임
-labels: 모집중, 수요일 내맘대로 코딩
+labels: 모집예정, 수요일 내맘대로 코딩
 assignees: limlimlim-study
 
 ---
